@@ -1,0 +1,51 @@
+state_id,state_name,state_abbreviation,population,political_affiliation,link
+1,Alabama,AL,4876250.00,Republican,https://alcovidvaccine.gov/
+2,Alaska,AK,737068.00,Republican,http://dhss.alaska.gov/dph/epi/id/pages/covid-19/vaccineappointments.aspx
+3,Arizona,AZ,7050299.00,Republican,https://www.azdhs.gov/covid19/vaccines/index.php
+4,Arkansas,AR,2999370.00,Republican,https://www.healthy.arkansas.gov/programs-services/topics/covid-19-map-of-1-a-pharmacy-locations
+5,California,CA,39283497.00,Democrat,https://covid19.ca.gov/vaccines/
+6,Colorado,CO,5610349.00,Democrat,https://covid19.colorado.gov/vaccine/where-you-can-get-vaccinated
+7,Connecticut,CT,3575074.00,Democrat,https://covidvaccinefinder.ct.gov/
+8,Delaware,DE,957248.00,Democrat,https://coronavirus.delaware.gov/vaccine/where-can-i-get-my-vaccine/
+9,Florida,FL,20901636.00,Republican,https://floridahealthcovid19.gov/vaccines/vaccine-locator/
+10,Georgia,GA,10403847.00,Republican,https://dph.georgia.gov/locations/covid-vaccination-site
+11,Hawaii,HI,1422094.00,Democrat,https://hawaiicovid19.com/vaccine/
+12,Idaho,ID,1717750.00,Republican,https://healthandwelfare.idaho.gov/covid-19-vaccination
+13,Illinois,IL,12770631.00,Democrat,https://coronavirus.illinois.gov/vaccines/vaccination-locations.html
+14,Indiana,IN,6665703.00,Republican,https://www.coronavirus.in.gov/vaccine/
+15,Iowa,IA,3139508.00,Republican,https://vaccinate.iowa.gov/
+16,Kansas,KS,2910652.00,Democrat,https://www.kansasvaccine.gov/160/Find-My-Vaccine
+17,Kentucky,KY,4449052.00,Democrat,https://govstatus.egov.com/ky-covid-vaccine
+18,Louisiana,LA,4664362.00,Democrat,https://ldh.la.gov/covidvaccine/
+19,Maine,ME,1335492.00,Democrat,https://www.maine.gov/covid19/vaccines
+20,Maryland,MD,6018848.00,Republican,https://coronavirus.maryland.gov/pages/vaccine
+21,Massachusetts,MA,6850553.00,Republican,https://www.mass.gov/info-details/covid-19-vaccination-locations
+22,Michigan,MI,9965265.00,Democrat,"https://www.michigan.gov/coronavirus/0,9753,7-406-98178_103214---,00.html"
+23,Minnesota,MN,5563378.00,Democrat,https://mn.gov/covid19/vaccine/index.jsp
+24,Mississippi,MS,2984418.00,Republican,"https://msdh.ms.gov/msdhsite/_static/14,22816,420,976.html"
+25,Missouri,MO,6104910.00,Republican,https://covidvaccine.mo.gov/find/#map/
+26,Montana,MT,1050649.00,Republican,https://dphhs.mt.gov/covid19vaccine
+27,Nebraska,NE,1914571.00,Republican,https://vaccinate.ne.gov/en-US/
+28,Nevada,NV,2972382.00,Democrat,https://www.immunizenevada.org/covid-19-vaccine-locator
+29,New Hampshire,NH,1348124.00,Republican,https://www.vaccines.nh.gov/
+30,New Jersey,NJ,8878503.00,Democrat,https://covid19.nj.gov/pages/vaccine
+31,New Mexico,NM,2092454.00,Democrat,https://www.newmexico.gov/
+32,New York,NY,19572319.00,Democrat,https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page
+33,North Carolina,NC,10264876.00,Democrat,https://covid19.ncdhhs.gov/vaccines
+34,North Dakota,ND,756717.00,Republican,https://www.health.nd.gov/covid-19-vaccine-information
+35,Ohio,OH,11655397.00,Republican,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/covid-19-vaccination-program
+36,Oklahoma,OK,3932870.00,Republican,https://oklahoma.gov/covid19.html
+37,Oregon,OR,4129803.00,Democrat,https://covidvaccine.oregon.gov/
+38,Pennsylvania,PA,12791530.00,Democrat,https://www.health.pa.gov/topics/disease/coronavirus/Vaccine/Pages/Vaccine.aspx
+39,Rhode Island,RI,1057231.00,Democrat,https://covid.ri.gov/vaccination
+40,South Carolina,SC,5020806.00,Republican,https://scdhec.gov/covid19/covid-19-vaccine
+41,South Dakota,SD,870638.00,Republican,https://doh.sd.gov/Covid/Vaccine/Public.aspx
+42,Tennessee,TN,6709356.00,Republican,https://covid19.tn.gov/covid-19-vaccines/
+43,Texas,TX,28260856.00,Republican,https://dshs.texas.gov/covidvaccine/
+44,Utah,UT,3096848.00,Republican,https://coronavirus.utah.gov/vaccine/
+45,Vermont,VT,624313.00,Republican,https://www.healthvermont.gov/covid-19/vaccine
+46,Virginia,VA,8454463.00,Democrat,https://www.virginia.gov/coronavirus/covid-19-vaccine/
+47,Washington,WA,7404107.00,Democrat,https://www.doh.wa.gov/Emergencies/COVID19/vaccine
+48,West Virginia,WV,1817305.00,Republican,https://dhhr.wv.gov/covid-19/pages/vaccine.aspx
+49,Wisconsin,WI,5790716.00,Democrat,https://www.dhs.wisconsin.gov/covid-19/index.htm
+50,Wyoming,WY,581024.00,Republican,https://health.wyo.gov/publichealth/immunization/wyoming-covid-19-vaccine-information/
